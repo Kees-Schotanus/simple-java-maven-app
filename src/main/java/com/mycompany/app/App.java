@@ -16,7 +16,7 @@ public class App
 
     /**
      * Gets the message.
-    */
+     */
     private final String getMessage() {
         return message;
     }
